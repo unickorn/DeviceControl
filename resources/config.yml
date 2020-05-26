@@ -1,0 +1,18 @@
+---
+# Put in the worlds you do not want to allow the devices with that OS to teleport to.
+# Example:
+# "Android": ["bannedworld1", "bannedworld2"]
+# In this example, Android users won't be able to teleport to worlds "bannedworld1" and "bannedworld2"
+"Unknown" : []
+"Android": []
+"iOS": []
+"macOS": []
+"FireOS": []
+"GearVR": []
+"HoloLens": []
+"Windows 10": []
+"Windows": []
+"Dedicated": []
+"Orbis": []
+"NX": []
+...

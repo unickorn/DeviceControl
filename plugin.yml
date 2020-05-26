@@ -1,0 +1,12 @@
+name: DeviceControl
+main: Unickorn\DeviceControl\Main
+version: 1.0.2
+api:
+ - 3.0.0
+load: POSTWORLD
+author: Unickorn
+description: Block certain devices from joining certain worlds.
+permission:
+  devicecontrol.bypass:
+    description: Bypass DeviceControl
+    default: op
